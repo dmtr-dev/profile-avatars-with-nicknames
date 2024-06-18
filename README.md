@@ -1,5 +1,5 @@
 # Avatar parser with nicknames from X(Twitter)
-##№ TG Channel - https://t.me/dmtrcrypto [![Join our Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmtrcrypto)
+### TG Channel - https://t.me/dmtrcrypto [![Join our Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmtrcrypto)
 
 The program saves avatars and nicknames of users from the specified X(Twitter) profiles
 
@@ -25,4 +25,4 @@ The program saves avatars and nicknames of users from the specified X(Twitter) p
 - When a warning appears in the console that you need to log in to your X(Twitter) account, you will need to log in to your account and press ENTER in the console. This is required in order to view subscribers in profiles, since X(Twitter) does not allow you to do this without an account.
 
 # Admin
-##№ Questions - https://t.me/dmtrcrypto [![Join our Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmtrcrypto)
+### Questions - https://t.me/dmtrcrypto [![Join our Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmtrcrypto)
