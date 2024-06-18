@@ -16,6 +16,7 @@ The program saves avatars and nicknames of users from the specified X(Twitter) p
     pip install selenium requests
     ```
 4. *Download [Chromedriver](https://googlechromelabs.github.io/chrome-for-testing/#stable). Also need Chromedriver to match your version of Google Chrome and the operating system. File `chromedriver.exe` must be located in the same folder as the program `main.py`.*
+5.  *Running the file `main.py`*
 
 # Details
 - The link to subscribers in the profile must be specified in the format https://x.com/.../followers in the file X_accounts.txt.
