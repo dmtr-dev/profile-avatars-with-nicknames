@@ -6,14 +6,16 @@ The program saves avatars and nicknames of users from the specified X(Twitter) p
 ## Installation
 1. *Python 3.11*
 2. *Downloads the program from Github or using the console on the computer:*
+ 
     ```
     git clone https://github.com/dmtr-dev/profile-avatars-with-nicknames
     ```
-3. *Libraries:*
+4. *Libraries:*
+
     ```
     pip install selenium requests
     ```
-4. *Download [Chromedriver](https://googlechromelabs.github.io/chrome-for-testing/#stable). Also need Chromedriver to match your version of Google Chrome and the operating system. File `chromedriver.exe` must be located in the same folder as the program `main.py`.*
+6. *Download [Chromedriver](https://googlechromelabs.github.io/chrome-for-testing/#stable). Also need Chromedriver to match your version of Google Chrome and the operating system. File `chromedriver.exe` must be located in the same folder as the program `main.py`.*
 
 # Details
 - The link to subscribers in the profile must be specified in the format https://x.com/.../followers in the file X_accounts.txt.
